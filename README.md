@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+TODO
+
+Until then, check out my blog...
+
+https://muman.ch/muman/index.htm?muman-matts-blog.htm
+
+
 <!--
 **mumanch/mumanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
