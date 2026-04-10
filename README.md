@@ -1,5 +1,5 @@
 ## $${\color{green}mumanchu}$$
-Real name `matt`, $${\color{green}mumanchu}$$ comes the my website name `muman.ch`.
+Real name `matt`, $${\color{green}mumanchu}$$ comes from my website name `muman.ch`.
 
 More stuff can be found here:\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
