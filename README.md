@@ -1,9 +1,8 @@
 ## $${\color{green}mumanchu}$$
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my website name `muman.ch`.
-
+This supository contains non-commercial code, or code that's been modified from old products which are no longer produced.
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
-
 
 <!--
 **mumanch/mumanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
