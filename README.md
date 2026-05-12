@@ -1,7 +1,7 @@
 ## $${\color{green}mumanchu}$$
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my website name `muman.ch`.
 
-This supository contains non-commercial code, or code that's been modified from old products which are no longer produced.
+This depository contains a growing number of libraries based on the simple Arduino-style programming model.
 
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
