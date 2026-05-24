@@ -1,7 +1,10 @@
 ## $${\color{green}mumanchu}$$
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my old website name `muman.ch`.
 
-This depository contains a growing number of libraries based on the simple Arduino-style programming model.
+This depository contains a growing number of libraries based on the simple Arduino-style programming model. 
+For STM32, SAMD, AVR, ESP32, ESP8266 platforms.
+Most of it is my old C# code from TinyCLR projects (GHI Electronics), which has been re-engineered for the Arduino environment. 
+It's easy to modify it for other architectures too.
 
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
