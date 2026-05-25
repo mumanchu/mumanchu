@@ -2,8 +2,8 @@
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my old website name `muman.ch`.
 
 This depository contains a growing number of libraries based on the simple Arduino-style programming model. 
-For STM32, SAMD, AVR, ESP32, ESP8266 platforms.
-Most of it is based on my old C# code from various TinyCLR projects (GHI Electronics), which has been re-engineered for the Arduino environment. 
+For STM32, SAMD, AVR, ESP32, ESP8266 platforms. Some of it is translated from my old C# code from various TinyCLR projects. 
+Some of it is from old pure 'C' code (e.g. my old LCD code from 1989), and some is new C++ code.
 It's easy to modify it for other architectures too.
 
 More "interesting" things can be found in the blog...\
