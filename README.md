@@ -1,7 +1,8 @@
 ## $${\color{green}mumanchu}$$
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my old website name `muman.ch`.
 
-This depository contains a growing number of libraries based on the simple Arduino-style programming model. \
+This depository contains a growing number of libraries based on the simple Arduino-style programming model. 
+
 I attempt to make the C++ code as small and easy to understand as possible. With meaningful comments and readable code, giving these libraries some advantages.
 
 More "interesting" things can be found in the blog...\
