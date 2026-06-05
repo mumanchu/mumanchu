@@ -1,8 +1,8 @@
 ## $${\color{green}mumanchu}$$
 Real name "Matt", $${\color{green}mumanchu}$$ comes from my old website name `muman.ch`.
 
-This depository contains a growing number of libraries based on the simple Arduino-style programming model. 
-For STM32, SAMD, AVR, ESP32 and/or ESP8266 platforms. It's easy to modify it for other architectures too.
+This depository contains a growing number of libraries based on the simple Arduino-style programming model. \
+I attempt to make the C++ code as small and easy to understand as possible. With meaningful comments and readable code, giving these libraries some advantages.
 
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
