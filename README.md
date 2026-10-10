@@ -5,7 +5,8 @@ This depository contains a growing number of libraries based on the simple Ardui
 
 I attempt to make the C++ code as small and easy to understand as possible. With meaningful comments and readable code, giving these libraries some advantages.
 
-**A few of the libraries are listed below. Click on "Repositories" (top left) to see them all.**
+**A few of the libraries are listed below. Go to 'Repositories' to see them all...** \
+https://github.com/mumanchu?tab=repositories
 
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
