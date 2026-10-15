@@ -25,10 +25,6 @@ The max. number of decimal places is 6 for float. Float holds only 6 or
 7 significant digits so the value may be truncated and rounded up.
 */
 
-//from
-//...\Documents\Visual Studio 2022\C4001-mmwave\C4001-mmwave\FloatUtils.cpp
-
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
