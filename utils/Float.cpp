@@ -1,6 +1,7 @@
-/////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
 // Floating point conversion routines
-// Copyright (C) github.com/mumanchu + muman.ch, 2026.06.26
+// Copyright (C) https://muman.ch + https://github.com/mumanchu, 2026.06.26
+// If you re-use this software, please include the above copyright notice
 /*
 NOTE On 8-bit processors double and float are both 32-bits (both float).
 
