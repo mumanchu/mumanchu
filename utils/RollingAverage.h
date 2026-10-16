@@ -1,7 +1,8 @@
 #pragma once
 
 // Optimized Rolling Average Filter
-// matt@muman.ch, 2025.03.04
+// Copyright (C) https://muman.ch + https://github.com/mumanchu, 2025.03.04
+// If you re-use this software, please include the above copyright notice
 /*
 Averages values of any numerical data type. The data type of the sum value SUMTYPE can
 also be defined.
