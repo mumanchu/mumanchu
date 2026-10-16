@@ -107,6 +107,3 @@ T RollingAverage<T, SUMTYPE>::getAverage()
 	return sum / index;
 }
 
-
-
-
