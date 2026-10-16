@@ -8,6 +8,9 @@ I attempt to make the C++ code as small and easy to understand as possible. With
 **A few of the libraries are listed below. Go to 'Repositories' to see them all...** \
 https://github.com/mumanchu?tab=repositories
 
+**Many of the libraries are available via the Arduino IDE's Library Manager** \
+To find them, enter 'mumanchu' into the Arduino IDE's Library Manager search field.
+
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
 
