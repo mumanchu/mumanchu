@@ -157,7 +157,7 @@ bool stringToFloat(const char* psz, float* result, char** pszEnd)
 			unsigned int decimalPlaces = (unsigned int)(endPtr2 - endPtr1);
 			if (decimalPlaces > 6)
 				return false;
-			const float pwr10[6] =
+			static const float pwr10[6] =
 				{ 0.1f, 0.01f, 0.001f, 0.0001f, 0.00001f, 0.000001f };
 			f += (float)right * pwr10[decimalPlaces - 1];
 		}
