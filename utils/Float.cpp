@@ -30,8 +30,9 @@ The max. number of decimal places is 6 for float. Float holds only 6 or
 #include <string.h>
 #include <math.h>
 #include <errno.h>
+#include <stdlib.h>
 
-static const char utils_nan[] = "NAN";		// use "-E-" for 7-segment display
+static const char utils_nan[] = "NAN";		// or "-E-" for 7-segment display
 static const char utils_format1[] = "-%lu";
 static const char utils_format2[] = "%lu";
 static const char utils_format3[] = "-%lu.%0?lu";
@@ -118,13 +119,13 @@ bool stringToFloat(const char* psz, float* result, char** pszEnd)
 	// skip leading spaces
 	while (*psz == ' ')
 		++psz;
-	*pszEnd = (char*)psz;
 
 	// sign
 	char ch = *psz;
 	bool negative = ch == '-';
 	if (negative || ch == '+')
 		ch = *++psz;
+	*pszEnd = (char*)psz;
 
 	// must be at least 1 digit
 	if (ch < '0' || ch > '9')
