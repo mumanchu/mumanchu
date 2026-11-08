@@ -1,5 +1,5 @@
-## $${\color{green}mumanchu}$$
-Real name "Matt", $${\color{green}mumanchu}$$ comes from my old website name `muman.ch`.
+# _mumanchu_
+Real name "Matt", _mumanchu_ comes from my old website name `muman.ch`.
 
 This depository contains a growing number of libraries based on the simple Arduino-style programming model. 
 
