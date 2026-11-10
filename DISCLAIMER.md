@@ -1,4 +1,4 @@
-# The Additional $${\color{green}mumanchu}$$ Disclaimer :grinning:
+# The Additional _mumanchu_ Disclaimer :grinning:
 
 This so-called _software_* is used entirely at your own risk. Neither the authors nor the distributors will accept any responsibility or liability for any physical or mental damage, injuries or deaths, of any persons, pets or relatives, living or already dead, or for any loss or accumulation of data, or any other possible effect that may, or may not, result from the use, non-use, misuse or abuse of this software. (But we use it a lot and it seems OK to us.)
 
