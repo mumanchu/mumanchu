@@ -14,6 +14,10 @@ To find them, enter 'mumanchu' into the Arduino IDE's Library Manager search fie
 More "interesting" things can be found in the blog...\
 https://muman.ch/muman/index.htm?muman-matts-blog.htm
 
+> [!NOTE]
+> All _mumanchu_ source code uses tabs, and tabs should be set to 4 spaces. If not, the source code may not look very pretty.
+
+
 <!--
 **mumanch/mumanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
