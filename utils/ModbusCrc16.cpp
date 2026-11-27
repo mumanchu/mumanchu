@@ -1,5 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Fast MODBUS CRC-16 calculation
+// https://github.com/mumanchu
 
 // No need for the xxx_t definitions, just use the standards
 typedef unsigned char byte;		// always 8 bits
